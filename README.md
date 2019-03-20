@@ -1,12 +1,17 @@
 # 0 前言
 ## 高并发、高性能、高可用必经之路
 ##### 基于一个完整电商项目进行架构演进，覆盖Tomcat集群+Nginx负载均衡+Redis分布式等核心技能点
+
 ![](https://upload-images.jianshu.io/upload_images/16782311-a06a658b55aa063f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![](https://upload-images.jianshu.io/upload_images/16782311-8265d8adbc5bb7b3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![单服务架构](https://upload-images.jianshu.io/upload_images/16782311-0760081cb15e0e09.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![“想当然”集群架构](https://upload-images.jianshu.io/upload_images/16782311-c82df791213c3f38.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![服务集群和分布式缓存系统架构](https://upload-images.jianshu.io/upload_images/16782311-a0a14076dd50a6b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 ![](https://upload-images.jianshu.io/upload_images/16782311-6582113867539aa5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
@@ -129,8 +134,8 @@ FTP服务对接、富文本上传
 | RabbitMq | 5.25 | [http://www.rabbitmq.com/download.html](http://www.rabbitmq.com/download.html) |
 | nginx | 1.10 | [http://nginx.org/en/download.html](http://nginx.org/en/download.html) |
 
-### [](https://github.com/macrozheng/mall#%E6%90%AD%E5%BB%BA%E6%AD%A5%E9%AA%A4)
 # 4 接口清单
+
 ![](https://upload-images.jianshu.io/upload_images/16782311-e949406535f2c369.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 参考
